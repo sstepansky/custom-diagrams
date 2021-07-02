@@ -1,7 +1,7 @@
 EnriqueEsteveVolc <- function() {
   x.data <<- 100*(WR[, "CaO"] / (WR[, "CaO"] + WR[, "K2O"]))
   y.data <<- WR[, "SiO2"]
-  
+
   temp1 <- list(
           linesD = list("lines", x = c(0, 100), y = c(64.8, 44.4), col = plt.col[2], lwd = 2),
 #          linesC = list("lines", x = c(0, 56.7), y = c(67.8, 56.1), col = plt.col[2]),
@@ -17,13 +17,13 @@ EnriqueEsteveVolc <- function() {
           linesG = list("lines", x = c(35.8, 27.2), y = c(56.1, 50.1), col = plt.col[2]),
           linesJ = list("lines", x = c(62.5, 53.4), y = c(52.2, 45.5), col = plt.col[2]),
           linesL = list("lines", x = c(83.0, 74.3), y = c(47.9, 41.4), col = plt.col[2]),
-          GCDkit = list("NULL",                                    
+          GCDkit = list("NULL",
               plot.type = "binary",
               plot.position = 901,
               plot.name = "Volcanic SiO2-CaO/(CaO+K2O) plot (Enrique + Esteve, 2019)"
               )
          )
-  
+
   temp2 <- list(
       text1 = list("text", x = 3.85, y = 76.17, text = "Alkali\nfeldspar\nryolite", col = plt.col[2], adj = 0.5, srt = -56, cex = 0.5),
       text2 = list("text", x = 20.89, y = 74.87, text = "Rhyolite", col = plt.col[2], adj = 0.5, cex = 0.9),
@@ -42,13 +42,13 @@ EnriqueEsteveVolc <- function() {
       text15 = list("text", x = 46.88, y = 43.62, text = "Foidites", col = plt.col[2], adj = 0.5, srt = -21, cex = 0.7),
       text16 = list("text", x = 5, y = 40, text = "SUBSATURATED\nROCKS", col = plt.col[2], adj = 0)
       )
-  
+
   if (getOption("gcd.plot.text")) {
       temp <- c(temp1, temp2)
       } else {
       temp <- temp1
   }
-  
+
   sheet <<- list(
                  demo = list(
                  fun = "plot",
