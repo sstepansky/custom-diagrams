@@ -16,6 +16,8 @@ library paths R knows about.
 Once copied, you will find the diagrams under the *Plots > User
 defined* menu item.
 
+The diagrams are tested on Linux running R 4.1.0 and GCDkit 6.0.
+
 ## Diagrams
 
 * SiO<sub>2</sub>&ndash;CaO/(CaO+K<sub>2</sub>O) diagrams of Enrique & Esteve
