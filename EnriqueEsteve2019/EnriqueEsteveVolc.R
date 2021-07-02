@@ -19,7 +19,7 @@ EnriqueEsteveVolc <- function() {
           linesL = list("lines", x = c(83.0, 74.3), y = c(47.9, 41.4), col = plt.col[2]),
           GCDkit = list("NULL",
               plot.type = "binary",
-              plot.position = 901,
+              plot.position = 900.1,
               plot.name = "Volcanic SiO2-CaO/(CaO+K2O) plot (Enrique + Esteve, 2019)"
               )
          )

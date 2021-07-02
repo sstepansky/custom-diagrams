@@ -14,7 +14,7 @@ IrvineBaragarFig6 <- function() {
                   lines1 = list("lines", x=c(40, 35), y = c(15.2,14.8), lty = "dashed", col = "black"),
                   GCDkit = list("NULL",
                       plot.type = "binary",
-                      plot.position = 903,
+                      plot.position = 902,
                       plot.name = "Al2O3 versus normative plagioclase (Irvine + Baragar, 1971)"
               )
 
