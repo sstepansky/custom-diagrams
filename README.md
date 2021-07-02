@@ -18,17 +18,17 @@ defined* menu item.
 
 ## Diagrams
 
-* SiO<sub>2</sub>--CaO/(CaO+K<sub>2</sub>O) diagrams of Enrique & Esteve
+* SiO<sub>2</sub>&ndash;CaO/(CaO+K<sub>2</sub>O) diagrams of Enrique & Esteve
   (2019).
   * Enrique, P. & Esteve, S. (2019). "A chemical approximation to the
     modal QAPF and normative Q' (F')-ANOR classification of the igneous
-    rocks based on their SiO<sub>2</sub>--CaO-K<sub>2</sub>O content".
-    *Geogaceta*, 66, 91--94. [Link to
+    rocks based on their SiO<sub>2</sub>&ndash;CaO-K<sub>2</sub>O content".
+    *Geogaceta*, 66, 91&ndash;94. [Link to
     PDF](https://sge.usal.es/archivos/geogacetas/geo66/Geo66_23.pdf)
   * Enrique, P. & Esteve, S. (2019). "Comparative study of the
     classification of plutonic and volcanic rocks using the normative Q'
-    (F')-ANOR and chemical SiO<sub>2</sub>--100⋅CaO/(CaO+K<sub>2</sub>O)
-    diagrams".  *Geogaceta*, 66, 95--98.  [Link to
+    (F')-ANOR and chemical SiO<sub>2</sub>&ndash;100⋅CaO/(CaO+K<sub>2</sub>O)
+    diagrams".  *Geogaceta*, 66, 95&ndash;98.  [Link to
     PDF](https://sge.usal.es/archivos/geogacetas/geo66/Geo66_24.pdf)
 
 
@@ -37,7 +37,7 @@ defined* menu item.
 Janoušek, V.; Farrow, C. M. & Erban, V. (2006). "Interpretation of
 Whole-rock Geochemical Data in Igneous Geochemistry: Introducing
 Geochemical Data Toolkit (GCDkit)".  *Journal of Petrology*, Oxford
-University Press, 47, 1255--1259. DOI
+University Press, 47, 1255&ndash;1259. DOI
 [10.1093/petrology/egl013](https://doi.org/10.1093/petrology/egl013)
 
 R Core Team (2021). *R: A language and environment for statistical
