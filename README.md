@@ -24,7 +24,7 @@ The diagrams are tested on Linux running R 4.1.0 and GCDkit 6.0.
   (2019).
   * Enrique, P. & Esteve, S. (2019). "A chemical approximation to the
     modal QAPF and normative Q' (F')-ANOR classification of the igneous
-    rocks based on their SiO<sub>2</sub>&ndash;CaO-K<sub>2</sub>O content".
+    rocks based on their SiO<sub>2</sub>-CaO-K<sub>2</sub>O content".
     *Geogaceta*, 66, 91&ndash;94. [Link to
     PDF](https://sge.usal.es/archivos/geogacetas/geo66/Geo66_23.pdf)
   * Enrique, P. & Esteve, S. (2019). "Comparative study of the
