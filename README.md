@@ -20,8 +20,8 @@ The diagrams are tested on Linux running R 4.1.0 and GCDkit 6.0.
 
 ## Diagrams
 
-* SiO<sub>2</sub>&ndash;CaO/(CaO+K<sub>2</sub>O) diagrams of Enrique & Esteve
-  (2019).
+* SiO<sub>2</sub>&ndash;CaO/(CaO+K<sub>2</sub>O) diagrams of Enrique &
+  Esteve (2019).
   * Enrique, P. & Esteve, S. (2019). "A chemical approximation to the
     modal QAPF and normative Q' (F')-ANOR classification of the igneous
     rocks based on their SiO<sub>2</sub>-CaO-K<sub>2</sub>O content".
@@ -29,10 +29,16 @@ The diagrams are tested on Linux running R 4.1.0 and GCDkit 6.0.
     PDF](https://sge.usal.es/archivos/geogacetas/geo66/Geo66_23.pdf)
   * Enrique, P. & Esteve, S. (2019). "Comparative study of the
     classification of plutonic and volcanic rocks using the normative Q'
-    (F')-ANOR and chemical SiO<sub>2</sub>&ndash;100⋅CaO/(CaO+K<sub>2</sub>O)
-    diagrams".  *Geogaceta*, 66, 95&ndash;98.  [Link to
+    (F')-ANOR and chemical
+    SiO<sub>2</sub>&ndash;100⋅CaO/(CaO+K<sub>2</sub>O) diagrams".
+    *Geogaceta*, 66, 95&ndash;98.  [Link to
     PDF](https://sge.usal.es/archivos/geogacetas/geo66/Geo66_24.pdf)
-
+* Al<sub>2</sub>O<sub>3</sub> versus normative plagioclase diagram,
+  figure 6 of Irvine & Baragar (1971).
+  * Irvine, T. N. & Baragar, W. R. A. (1971). "A Guide to the Chemical
+    Classification of the Common Volcanic Rocks". *Canadian Journal of
+    Earth Sciences*, 8, 523&ndash;548. DOI
+    [10.1139/e71-055](https://doi.org/10.1139/e71-055)
 
 ## Other references
 
