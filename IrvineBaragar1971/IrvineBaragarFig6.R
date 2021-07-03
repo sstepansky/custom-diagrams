@@ -1,4 +1,5 @@
 IrvineBaragarFig6 <- function() {
+    if (!any(grepl(".userlist", as.character(sys.calls())))) {
       ee <- Catanorm(WR)
       cols <- colnames(ee)
       nmins <- c("   An", "   Ab", "   Ne")
@@ -8,6 +9,7 @@ IrvineBaragarFig6 <- function() {
           x.data <<- 100 * ee[, "   An"] / (ee[, "   An"] + ee[, "   Ab"])
       }
       y.data <<- WRanh[, "Al2O3"]
+    }
 
       temp1 <- list(
                   lines0 = list("lines", x=c(100, 40), y = c(20, 15.2), col = "black"),
