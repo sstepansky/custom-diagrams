@@ -33,6 +33,12 @@ The diagrams are tested on Linux running R 4.1.0 and GCDkit 6.0.
     SiO<sub>2</sub>&ndash;100⋅CaO/(CaO+K<sub>2</sub>O) diagrams".
     *Geogaceta*, 66, 95&ndash;98.  [Link to
     PDF](https://sge.usal.es/archivos/geogacetas/geo66/Geo66_24.pdf)
+* 2Q&ndash;(or+ab)&ndash;4an diagram of Enrique (2018).
+  * Enrique, P. (2018). "Clasificación normativa de las rocas plutónicas
+    saturadas y sobresaturadas en sílice basada en la clasificación
+    modal QAP: El diagrama 2Q-(or+ab)-4an".  *Geogaceta*, 63,
+    95&ndash;98. [Link to
+    PDF](https://sge.usal.es/archivos/geogacetas/geo63/geo63_24.pdf)
 * Al<sub>2</sub>O<sub>3</sub> versus normative plagioclase diagram,
   figure 6 of Irvine & Baragar (1971).
   * Irvine, T. N. & Baragar, W. R. A. (1971). "A Guide to the Chemical
