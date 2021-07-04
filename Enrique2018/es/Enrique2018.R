@@ -5,7 +5,7 @@ Enrique2018 <- function(calc.Fe = TRUE) {
                 message("FeO/Fe2O3 ratio calculated according to Le Maitre (1976)")
                 ox <- 0.88 - (0.0016 * WR[, "SiO2"]) - (0.027 * (WR[, "K2O"] + WR[, "Na2O"]))
                 ferros <- ox * WR[, "FeOt"]
-                ferric <- (1 - ox) * WR[, "FeOt"] * MW["FeO"] / MW["Fe2O3"] * 2
+                ferric <- (1 - ox) * WR[, "FeOt"] / (MW["FeO"] / MW["Fe2O3"] * 2)
                 WR[, "FeO"] <- ferros
                 WR[, "Fe2O3"] <- ferric
             }
