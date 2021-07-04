@@ -1,6 +1,14 @@
-Enrique2018 <- function() {
+Enrique2018 <- function(calc.Fe = TRUE) {
     if (!any(grepl(".userlist", as.character(sys.calls())))) {
         if (!diagram.testing) {
+            if (calc.Fe) {
+                message("FeO/Fe2O3 ratio calculated according to Le Maitre (1976)")
+                ox <- 0.88 - (0.0016 * WR[, "SiO2"]) - (0.027 * (WR[, "K2O"] + WR[, "Na2O"]))
+                ferros <- ox * WR[, "FeOt"]
+                ferric <- (1 - ox) * WR[, "FeOt"] * MW["FeO"] / MW["Fe2O3"] * 2
+                WR[, "FeO"] <- ferros
+                WR[, "Fe2O3"] <- ferric
+            }
             # hack to avoid setWinProgressBar on line 368 of CIPW.r
             # and close(pb) on line 395
             op <- options()

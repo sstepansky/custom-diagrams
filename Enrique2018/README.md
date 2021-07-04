@@ -16,3 +16,11 @@
    [original
    paper](https://sge.usal.es/archivos/geogacetas/geo63/geo63_24.pdf)
    for reference.
+
+4. The function calculates the ratio FeO/Fe<sub>2</sub>O<sub>3</sub>
+   according to the formula of [Le Maitre
+   (1976)](https://doi.org/10.1007/BF00399603) for plutonic rocks. If
+   you wish to skip this recalculation and use your original FeO and
+   Fe<sub>2</sub>O<sub>3</sub>, set the argument `calc.Fe` to `FALSE`
+   (i.e. execute `plotDiagram("Enrique2018", calc.Fe = FALSE) instead of
+   using the menus).
