@@ -22,5 +22,5 @@
    (1976)](https://doi.org/10.1007/BF00399603) for plutonic rocks. If
    you wish to skip this recalculation and use your original FeO and
    Fe<sub>2</sub>O<sub>3</sub>, set the argument `calc.Fe` to `FALSE`
-   (i.e. execute `plotDiagram("Enrique2018", calc.Fe = FALSE) instead of
-   using the menus).
+   (i.e. execute `plotDiagram("Enrique2018", calc.Fe = FALSE)` instead
+   of using the menus).
