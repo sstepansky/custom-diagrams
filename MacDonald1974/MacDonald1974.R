@@ -42,7 +42,7 @@ MacDonald1974 <- function() {
                                            col = "green",
                                            bg = "transparent",
                                            fg = "black",
-                                           xlab = annotate("FeO"),
+                                           xlab = annotate(" Total iron as FeO"),
                                            ylab = annotate("Al2O3")),
                                template = temp))
 }
