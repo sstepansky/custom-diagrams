@@ -45,6 +45,12 @@ The diagrams are tested on Linux running R 4.1.0 and GCDkit 6.0.
     Classification of the Common Volcanic Rocks". *Canadian Journal of
     Earth Sciences*, 8, 523&ndash;548. DOI
     [10.1139/e71-055](https://doi.org/10.1139/e71-055)
+* Peralkaline quartz-normative extrusive rock classification of
+  MacDonald (1974).
+  * MacDonald, R. (1974). "Nomenclature and petrochemistry of the
+    peralkaline oversaturated extrusive rocks". *Bulletin
+    Volcanologique*, 38, 498&ndash;516. DOI
+    [10.1007/BF02596896](https://doi.org/10.1007/BF02596896)
 
 ## Other references
 
