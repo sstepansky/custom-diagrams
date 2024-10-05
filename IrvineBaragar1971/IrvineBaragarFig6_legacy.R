@@ -2,11 +2,11 @@ IrvineBaragarFig6 <- function() {
     if (!any(grepl(".userlist", as.character(sys.calls())))) {
         ee <- Catanorm(WR)
         cols <- colnames(ee)
-        nmins <- c("an", "ab", "ne")
+        nmins <- c("   An", "   Ab", "   Ne")
         if(all(nmins %in% cols)) {
-            x.data <<- 100 * ee[, "an"] / (ee[, "an"] + ee[, "ab"] + 5 / 3 * ee[, "ne"])
+            x.data <<- 100 * ee[, "   An"] / (ee[, "   An"] + ee[, "   Ab"] + 5 / 3 * ee[, "   Ne"])
         } else {
-            x.data <<- 100 * ee[, "an"] / (ee[, "an"] + ee[, "ab"])
+            x.data <<- 100 * ee[, "   An"] / (ee[, "   An"] + ee[, "   Ab"])
         }
         y.data <<- WRanh[, "Al2O3"]
     }
