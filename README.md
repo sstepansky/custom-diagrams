@@ -51,6 +51,11 @@ The diagrams are tested on Linux running R 4.1.0 and GCDkit 6.0.
     peralkaline oversaturated extrusive rocks". *Bulletin
     Volcanologique*, 38, 498&ndash;516. DOI
     [10.1007/BF02596896](https://doi.org/10.1007/BF02596896)
+* Basalt tetrahedron's Q-Ne-Ol plane, figure 2 of Yoder & Tilley (1962).
+  * Yoder, H.S. & Tilley, C. E. (1962). "Origin of basalt magmas: An
+    experimental study of natural and synthetic rock systems". *Journal
+    of Petrology*, 3, 342&ndash;532. DOI
+    [10.1093/petrology/3.3.342](https://doi.org/10.1093/petrology/3.3.342)
 
 ## Other references
 
@@ -60,7 +65,7 @@ Geochemical Data Toolkit (GCDkit)".  *Journal of Petrology*, Oxford
 University Press, 47, 1255&ndash;1259. DOI
 [10.1093/petrology/egl013](https://doi.org/10.1093/petrology/egl013)
 
-R Core Team (2021). *R: A language and environment for statistical
+R Core Team (2024). *R: A language and environment for statistical
 computing*. R Foundation for Statistical Computing, Vienna, Austria. URL
 https://www.R-project.org/
 
